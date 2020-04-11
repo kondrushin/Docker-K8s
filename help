@@ -1,0 +1,10 @@
+02.DockerCompose
+
+-to start services
+docker-compose up
+
+-to start containers of the app was changed
+docker-compose up --build
+
+-to delete containers
+docker-compose down
